@@ -23,7 +23,7 @@
 
 ## 📂 精选开源仓库
 [![goStudy](https://github-readme-stats.vercel.app/api/pin/?username=Benny66&repo=goStudy&theme=github-dark&hide_border=true)](https://github.com/Benny66/goStudy)
-[![ginServer](https://github-readme-stats.vercel.app/api/pin/?username=Benny66&repo=ginServer&theme=github-dark&hide_border=true)](https://github.com/Benny66/ginServer)
+[[![ginServer](https://github-readme-stats.vercel.app/api/pin/?username=Benny66&repo=ginServer&theme=github-dark&hide_border=true)]([https://github.com/Benny66/ginServer](https://github.com/Benny66/ginServer))](https://github.com/Benny66/ginServer)
 
 ## 👀 访客统计
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Benny66.profile)
