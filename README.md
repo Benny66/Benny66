@@ -3,7 +3,6 @@
 ## 📊 GitHub 数据统计
 <!-- 国内镜像 稳定版 -->
 ![GitHub Stats](https://stats.justsong.cn/api/github?username=Benny66&theme=dark)
-![Top Langs](https://stats.justsong.cn/api/toplang?username=Benny66&theme=dark)
 
 <!-- 连续提交打卡 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Benny66&theme=dark&hide_border=true)](https://git.io/streak-stats)
@@ -20,13 +19,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-## 📂 精选开源仓库
-[![goStudy](https://github-readme-stats.vercel.app/api/pin/?username=Benny66&repo=goStudy&theme=github-dark&hide_border=true)](https://github.com/Benny66/goStudy)
-[[![ginServer](https://github-readme-stats.vercel.app/api/pin/?username=Benny66&repo=ginServer&theme=github-dark&hide_border=true)]([https://github.com/Benny66/ginServer](https://github.com/Benny66/ginServer))](https://github.com/Benny66/ginServer)
-
-## 👀 访客统计
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Benny66.profile)
 
 ## 💡 个人简介
 - 🔭 专注 Go / Gin 后端开发
